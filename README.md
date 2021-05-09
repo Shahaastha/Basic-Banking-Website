@@ -1,4 +1,4 @@
-Sparks Foundation Internship Project
+<strong>Sparks Foundation Internship Project<strong>
 
 Task#1: Basic Banking System
 
@@ -8,7 +8,7 @@ Creating a basic dynamic banking website that allows one to create users, transf
 Technology Stack: HTML, CSS, JS, PHP, MySQL
 
 
-Flow: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+<em>Flow: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.</em>
 
 
 Database consist of two Tables- users Table & transaction Table
@@ -17,4 +17,4 @@ User table have basic fields such as name, email & current balance.
 
 Transaction table records all transfers happened along with their time.
 
-Link: <a href=" sparksbasicbank.infinityfreeapp.com">sparksbasicbank.infinityfreeapp.com</a>
+Link: <a href=" sparksbasicbank.infinityfreeapp.com">http://sparksbasicbank.infinityfreeapp.com/</a>
