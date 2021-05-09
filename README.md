@@ -1,4 +1,4 @@
-<strong>Sparks Foundation Internship Project</strong>
+<strong><h1>Sparks Foundation Internship Project</h1></strong>
 
 Task#1: Basic Banking System
 
