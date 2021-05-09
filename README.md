@@ -10,7 +10,7 @@ Technology Stack: HTML, CSS, JS, PHP, MySQL
 
 <em><strong>Flow:</strong> Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.</em>
 
-
+<hr>
 Database consist of two Tables- users Table & transaction Table
 
 User table have basic fields such as name, email & current balance.
