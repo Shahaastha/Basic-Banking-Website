@@ -17,4 +17,4 @@ User table have basic fields such as name, email & current balance.
 
 Transaction table records all transfers happened along with their time.
 
-Link:  sparksbasicbank.infinityfreeapp.com
+Link: <a href=" sparksbasicbank.infinityfreeapp.com">sparksbasicbank.infinityfreeapp.com</a>
