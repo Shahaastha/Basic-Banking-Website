@@ -13,9 +13,9 @@ Technology Stack: HTML, CSS, JS, PHP, MySQL
 <hr>
 Database consist of two Tables- users Table & transaction Table
 
-User table have basic fields such as name, email & current balance.
+1)User table have basic fields such as name, email & current balance.
 
-Transaction table records all transfers happened along with their time.
+2)Transaction table records all transfers happened along with their time.
 <hr>
 
 Link: <a href=" sparksbasicbank.infinityfreeapp.com">http://sparksbasicbank.infinityfreeapp.com/</a>
